@@ -4,7 +4,7 @@
   Setup of this project
 To get this repository, run the following command inside your git enabled terminal
 
-$ git clone https://github.com/nirakartarei01/task_management.git
+$ git clone 
 
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
